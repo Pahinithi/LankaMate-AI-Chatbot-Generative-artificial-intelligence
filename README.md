@@ -23,7 +23,7 @@ LankaMate AI is an advanced chatbot application powered by the Gemini 1.5 model 
 ## Demo
 
 <!-- If you have a live demo, include the link here -->
-Check out the [Live Demo](#) of LankaMate AI Chatbot.
+Check out the [Live Demo](https://drive.google.com/file/d/1XE3hZSCh0fVC25ZuM_HqtTlGLCvOdrI8/view?usp=sharing) of LankaMate AI Chatbot.
 
 ## Installation
 
